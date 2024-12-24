@@ -1,0 +1,19 @@
+{
+  "name": "m13",
+  "version": "1.0.0",
+  "type": "module",
+  "main": "api.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "mocha test/test.api.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "sinon": "^19.0.2"
+  }
+}
